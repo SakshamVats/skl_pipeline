@@ -111,9 +111,8 @@ You can also integrate `GridSearchCV` for automatic tuning.
 
 - [x] Add cross-validation
 - [x] Include visualization
-- [ ] Add model selection via config file
-- [ ] Integrate hyperparameter tuning (GridSearchCV)
-- [ ] Export pipeline using `joblib`
+- [x] Add model selection via config file
+- [x] Export pipeline using `joblib`
 
 ---
 

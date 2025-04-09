@@ -1,0 +1,7 @@
+{
+  "model": "logistic_regression",
+  "hyperparameters":  {
+    "max_iter": 1000,
+    "solver": "lbfgs"
+  }
+}
