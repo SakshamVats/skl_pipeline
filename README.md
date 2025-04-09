@@ -21,6 +21,9 @@ A compact and powerful machine learning project using Scikit-Learn Pipelines to 
 📁 project_root/
 ├── data/
 │   └── adult_income.csv
+├── config/
+│   └── config.json
+│   └── model.pkl
 ├── main.py
 └── README.md
 ```
